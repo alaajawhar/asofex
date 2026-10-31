@@ -1,4 +1,4 @@
-# asofex
+# Asofex
 
 **App Store screenshots that sell, made for you in one conversation.**
 
@@ -15,12 +15,20 @@ Your screenshots are your ad. People decide to install in about three seconds, m
 - A clear positioning and copy you can reuse on your website and ads.
 - You approve every key step. Nothing ships until you like it.
 
+## What you get
+
+- A finished set of 6 to 10 screenshots for iPhone and iPad, ready to upload to App Store Connect.
+- Screenshots compliant with Apple's App Store screenshot dimensions and format requirements (iPhone 6.9": 1320 x 2868 - iPad 13": 2064 x 2752. 2048 x 2732)
+- A mascot that carries your brand across every screen.
+- A clear positioning and copy you can reuse on your website and ads.
+  
 ## Start
+1. 
+  ```bash
+  git clone https://github.com/alaajawhar/asofex.git && cd asofex && claude
+  ```
+2. Tell Claude: *"Make App Store screenshots for my app."*
+3. Answer a few questions, and let Claude handle the rest.
 
-```bash
-git clone https://github.com/alaajawhar/asofex.git && cd asofex && claude
-```
-
-Then tell Claude: *"Make App Store screenshots for my app."*
 
 MIT licensed. Example sets show the author's own apps, for reference only.
