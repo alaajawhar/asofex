@@ -1,0 +1,81 @@
+{
+ "aspect": "1260:2736",
+ "character": true,
+ "direction": "Bell buddy: background near-black #0D0D0F; two large flat layered rolling hills across the lower part in #1A1A1E and #232327; character = the Notifex bell mark as a friendly rounded character (solid white bell body with soft gray shading, one round eye near the top right, small calm smiling mouth, two stubby arms, no legs, flat, vector-clean, no outlines); headline in a bold rounded geometric grotesk, white #F2F2F2, left-aligned at 7% margin, about 9% of canvas width per line, tight leading; accent word #9A9A9E; subheadline #9A9A9E regular at 40% of headline size; black titanium iPhone 17 Pro Max, thin bezels, soft shadow onto the hills. Strictly monochrome outside the phone screen.",
+ "screens": [
+  {
+   "nn": "01",
+   "first": true,
+   "layout": "top_cw",
+   "h1": "Leave the desk.",
+   "h2": "Your agent will find you.",
+   "accent": "find",
+   "sub": "Push when it needs a decision. One tap to unblock.",
+   "pose": "standing on the front hill beside the phone, pointing one arm up at the notification, looking at it.",
+   "screen_notes": "Lock screen with the Notifex push; wallpaper replaced by a dark monochrome gradient and date reading Thursday 11 September; notification identical."
+  },
+  {
+   "nn": "02",
+   "layout": "top_cw",
+   "h1": "It asks.",
+   "h2": "You tap.",
+   "accent": "tap",
+   "sub": "Real questions with real options, not just allow or deny.",
+   "pose": "leaning in, pointing at the first option 'Run it', eye wide and curious."
+  },
+  {
+   "nn": "03",
+   "layout": "bottom",
+   "h1": "It waits.",
+   "h2": "Then it keeps going.",
+   "accent": "keeps going",
+   "sub": "No timeouts. Your answer unblocks the agent the moment you send it.",
+   "pose": "sitting relaxed beside the phone's bottom corner, stubby thumbs up, eye half closed."
+  },
+  {
+   "nn": "04",
+   "layout": "top_ccw",
+   "h1": "One config entry.",
+   "h2": "Nothing on your Mac.",
+   "accent": "Nothing",
+   "sub": "No bridge, no daemon, no pairing. Claude Code, Codex, OpenClaw, Hermes, any MCP client.",
+   "pose": "holding a single short white cable with a plug, offering it toward the phone."
+  },
+  {
+   "nn": "05",
+   "layout": "top_cw",
+   "h1": "Pinged when",
+   "h2": "it matters.",
+   "accent": "matters",
+   "sub": "\"Deploy finished.\" \"Tests are green.\" \"I need a decision.\"",
+   "pose": "juggling three small white notification bubbles above its head, delighted."
+  },
+  {
+   "nn": "06",
+   "layout": "bottom",
+   "h1": "Three decisions.",
+   "h2": "One card.",
+   "accent": "One",
+   "sub": "A release checklist arrives as one notification you page through.",
+   "pose": "holding a fan of three small blank white cards like a hand of playing cards."
+  },
+  {
+   "nn": "07",
+   "layout": "top_ccw",
+   "h1": "Every project,",
+   "h2": "its own inbox.",
+   "accent": "inbox",
+   "sub": "Switch like mail. Invite a teammate. First answer wins.",
+   "pose": "peeking out from behind the phone's right edge, waving a tiny white envelope."
+  },
+  {
+   "nn": "08",
+   "layout": "top_cw",
+   "h1": "Your agents ask.",
+   "h2": "You answer.",
+   "accent": "You",
+   "sub": "Free on iPhone. Any MCP agent. Set up in a minute.",
+   "pose": "sitting on the front hill, waving goodbye, eye closed in a happy squint."
+  }
+ ]
+}

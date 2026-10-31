@@ -1,0 +1,91 @@
+{
+ "aspect": "2064:2752",
+ "character": true,
+ "direction": "Clock Buddy: playful, warm, character-led. Background: off-white #FEFDFD, with two layered flat rounded ground shapes at the bottom of the canvas: a back hill in pale lavender #E6DEFF and a front hill in pale sky blue #D6E8FF, flat, no texture. Character: Buddy, a small friendly round alarm clock mascot made from the app icon: a round clock body with two small bells on top (left bell violet #6C38FC, right bell cyan #02CEF0), the body filled with a smooth gradient from violet #6C38FC to blue #0A7AFD to cyan #02CEF0, a white round face, two simple dark navy #0B1020 dot eyes and a happy mouth drawn as five tiny rounded waveform bars, two stubby rounded arms, two tiny feet, flat vector style with no outlines and no texture, about 20% of the canvas height. Typography: a heavy rounded geometric sans (Manrope ExtraBold style), sentence case, tight leading, headline color navy #0B1020, accent word in violet #6C38FC. Subheadline in #4A5170, regular weight. Device: iPad Pro 13-inch in portrait, silver aluminum frame, thin uniform bezels, soft shadow.",
+ "layouts": {
+  "cw": "Layout (iPad 3:4 canvas): headline block in the top 22% of the canvas (top 5% free of text), left-aligned at a 6% margin, headline letters about 6% of the canvas height tall, subheadline directly below; below the text the iPad in portrait, tilted about 6 degrees clockwise, large (about 72% of the canvas width), its lower right corner running off the right edge and bottom of the canvas, standing on the ground hills; Buddy stands on the ground in the lower left corner in front of the iPad's bottom left edge, about 20% of the canvas height, never covering any UI text.",
+  "ccw": "Layout (iPad 3:4 canvas): headline block in the top 22% of the canvas (top 5% free of text), left-aligned at a 6% margin, headline letters about 6% of the canvas height tall, subheadline directly below; below the text the iPad in portrait, tilted about 6 degrees counter-clockwise, large (about 72% of the canvas width), its lower left corner running off the left edge and bottom of the canvas, standing on the ground hills; Buddy stands on the ground in the lower right corner in front of the iPad's bottom right edge, about 20% of the canvas height, never covering any UI text."
+ },
+ "screens": [
+  {
+   "nn": "01",
+   "layout": "ccw",
+   "h1": "Any sound.",
+   "h2": "Your alarm.",
+   "accent": "Your",
+   "sub": "Songs, reels, memes, speeches.",
+   "pose": "dancing happily with one arm raised, wearing small over-ear headphones, three small music notes floating above in violet and cyan (notes only, no text).",
+   "screen_notes": "The screen is the iPad \"MY SOUNDS\" list exactly as in Image 1: top bar with a back button and the Alarms/Sounds segmented tabs, then six rows with square cover thumbnails and the titles Yawning Cat Meme, Crowd Goes Wild, Sunday Vinyl, Stair Sprint Speech, Neon Anime Opening, Rooftop Sunrise, each with a duration, the date Oct 30, 2026, a blue play button and a chevron, and empty space below. Screen geometry: Image 1 is placed on the iPad screen as ONE flat rigid rectangle that rotates with the device; nothing inside the screen is skewed or sheared."
+  },
+  {
+   "nn": "02",
+   "layout": "cw",
+   "h1": "Saved a reel?",
+   "h2": "Make it ring.",
+   "accent": "ring",
+   "sub": "Pull the sound from any video you saved.",
+   "pose": "holding a small movie clapperboard in one hand and happily pulling a flowing violet-to-cyan sound-wave ribbon out of it with the other.",
+   "screen_notes": "The screen shows the centered \"ADD A SOUND\" sheet exactly as in Image 1 over a soft blurred, dimmed background: Close button, \"01 \u2014 PICK A SOURCE\", the title \"Bring in a sound.\", the paragraph, and the rows \"Audio file \u2014 MP3 or M4A from Files\" and \"Video \u2014 Pull audio from a clip\". Keep the background around the sheet blurred exactly as in Image 1; do not sharpen or reveal anything behind it. Screen geometry: Image 1 is placed on the iPad screen as ONE flat rigid rectangle that rotates with the device; nothing inside the screen is skewed or sheared."
+  },
+  {
+   "nn": "03",
+   "layout": "ccw",
+   "h1": "Wake up to",
+   "h2": "the best part",
+   "accent": "best part",
+   "sub": "Trim it to the exact second.",
+   "pose": "holding a pair of big rounded scissors, cheerfully snipping a short violet-to-cyan waveform ribbon, one eye winking.",
+   "screen_notes": "The screen shows the centered \"TRIM & NAME\" sheet exactly as in Image 1 over a soft blurred, dimmed background: \"Shape your sound.\", \"Drag the handles to trim.\", the sunset city cover with a pencil badge, TITLE \"Rooftop Sunrise\", the waveform with the dark selected section between two handles and grey bars outside it, the times 0:42, 0:38 and 1:20, the round pause button, and the dark \"Upload\" button. Keep the background around the sheet blurred exactly as in Image 1. Screen geometry: Image 1 is placed on the iPad screen as ONE flat rigid rectangle that rotates with the device; nothing inside the screen is skewed or sheared."
+  },
+  {
+   "nn": "04",
+   "layout": "cw",
+   "h1": "It rings.",
+   "h2": "Even on silent.",
+   "accent": "silent",
+   "sub": "Through Focus, offline, app closed.",
+   "pose": "bells ringing hard with small motion lines around them, eyes wide and proud, standing next to a small flipped toggle switch (no text, no symbols on it).",
+   "screen_notes": "The screen is the full-screen iPad alarm alert exactly as in Image 1: black background, a small alarm clock icon with \"Nap\u2019s over\", the huge time \"10:51\", \"AlarmiFex\" below it, and two buttons at the bottom: a blue \"Snooze\" button with orange text and a dark grey \"Stop\" button. No status bar. Screen geometry: Image 1 is placed on the iPad screen as ONE flat rigid rectangle that rotates with the device; nothing inside the screen is skewed or sheared."
+  },
+  {
+   "nn": "05",
+   "layout": "ccw",
+   "h1": "Every alarm,",
+   "h2": "its own sound",
+   "accent": "own",
+   "sub": "Hype on weekdays. Calm on Sundays.",
+   "pose": "holding a fan of three small rounded cards, each card showing only a single music note in a different color (violet, blue, cyan), no text.",
+   "screen_notes": "The screen is the iPad \"AlarmiFex\" alarm list exactly as in Image 1: title AlarmiFex, Alarms/Sounds segmented tabs, + button, and rows 5:45 AM Leg day Tue, Thu; 6:00 AM \u2013 6:30 AM Easy mornings \u00b7 3 sounds \u00b7 Weekdays; 6:30 AM Sunrise run Weekdays; 7:15 AM Class at 8 Mon, Wed, Fri; 9:30 AM Sunday slow Sun; 10:00 AM Game day Sat; every row has a green toggle switched on. Screen geometry: Image 1 is placed on the iPad screen as ONE flat rigid rectangle that rotates with the device; nothing inside the screen is skewed or sheared."
+  },
+  {
+   "nn": "06",
+   "layout": "cw",
+   "h1": "No sound in mind?",
+   "h2": "Pick a mood.",
+   "accent": "mood",
+   "sub": "Ready-made sounds for every mood.",
+   "pose": "thinking, one stubby arm on its chin, three small floating round empty bubbles in lavender, blue and cyan above its head (no text, no faces).",
+   "screen_notes": "The screen is the iPad \"Calm\" category exactly as in Image 1: back button, Alarms/Sounds tabs, the title \"Calm\", and the two-column grid of large photo cards with exactly the titles, creators, \"Calm\" tags, durations and orange PRO badges shown in Image 1. Do not invent any card text. Screen geometry: Image 1 is placed on the iPad screen as ONE flat rigid rectangle that rotates with the device; nothing inside the screen is skewed or sheared."
+  },
+  {
+   "nn": "07",
+   "layout": "ccw",
+   "h1": "Wake up",
+   "h2": "in waves",
+   "accent": "waves",
+   "sub": "A series of sounds, 15 minutes apart.",
+   "pose": "riding a gentle rolling violet-to-cyan sound wave like a surfer, arms out for balance, smiling.",
+   "screen_notes": "The screen shows the centered \"Timeline\" sheet exactly as in Image 1 over the dimmed alarm list: back, Edit and Save buttons; rows 6:00 AM Sunday Vinyl, 6:15 AM Rooftop Sunrise, 6:30 AM Crowd Goes Wild, each with its cover, the small grey word \"classic\" and a play button; \"Add Sound\"; \"3 alarms \u00b7 every 15 min\"; Label \"Easy mornings\". Screen geometry: Image 1 is placed on the iPad screen as ONE flat rigid rectangle that rotates with the device; nothing inside the screen is skewed or sheared."
+  },
+  {
+   "nn": "08",
+   "layout": "cw",
+   "h1": "Make tomorrow",
+   "h2": "sound like you",
+   "accent": "you",
+   "sub": "Set your first sound tonight.",
+   "pose": "waving goodnight with one arm, wearing a tiny navy sleep cap, a small pale crescent moon floating behind it.",
+   "screen_notes": "The screen shows the centered \"New Alarm\" sheet exactly as in Image 1 over a soft blurred, dimmed background: Cancel and Save buttons, the time wheel set to 6:30 AM, the \"Alarm in ...\" line exactly as in Image 1, Label \"Sunrise run\", and Repeat with M T W T F highlighted blue and S S grey plus the Weekdays/Weekends/Every Day/Clear chips. Keep the background around the sheet blurred exactly as in Image 1. Screen geometry: Image 1 is placed on the iPad screen as ONE flat rigid rectangle that rotates with the device; nothing inside the screen is skewed or sheared."
+  }
+ ]
+}

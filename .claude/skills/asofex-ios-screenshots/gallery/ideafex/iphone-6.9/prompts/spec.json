@@ -1,0 +1,107 @@
+{
+ "aspect": "1260:2736",
+ "direction": "Idea Wall: dark, rich, organized. Background: near-black #0b0c0f covered edge to edge by a subtle masonry wall of flat rounded tiles in #13151a and #181b22 with 24px gaps, echoing the brand mark; three of the tiles are accent blue #4f8fe0 at 25% opacity; no glow, no gradient. Typography: a bold geometric condensed sans like Barlow Semi Condensed Bold, ALL CAPS headline with 2% letter spacing, headline color #ebedf5, accent word color #4f8fe0, subheadline sentence case #9aa0b4. Device: iPhone 17 Pro Max, black frame, thin bezels, soft shadow, perfectly straight and centered, its bottom running off the canvas. Decoration: The character, named Tilly: the brand's tall rounded tile turned into a small friendly creature. Body = one tall rounded rectangle tile (corner radius about 18% of its width), flat #ebedf5 off-white, no outline, no gradient. Two small round #0b0c0f eyes near the top, a small calm smile, two short rounded stubby arms in the same color as the body, no legs, no ears, no nose. It carries or interacts with a small square tile in accent blue #4f8fe0 that looks like a saved idea card. Flat 2D vector style, outline-free, soft and rounded like the Headspace characters, consistent proportions (body height about 1.5x its width). Here the character is smaller (about 15% of canvas height) and peeks out from behind the phone's right edge.",
+ "character": true,
+ "screens": [
+  {
+   "nn": "02",
+   "layout": "bottom",
+   "h1": "EVERYTHING ON",
+   "h2": "ONE WALL",
+   "accent": "ONE",
+   "sub": "Videos, posts, articles and notes, each with its source.",
+   "pose": "pressing a small accent-blue tile onto the masonry wall backdrop as if pinning an idea.",
+   "screen_notes": "The screen shows the Ideafex wall in dark mode: a two-column masonry grid of idea cards (Habit stacking article, a note, a TED video, Arashiyama photo, How to Do Great Work, notes).",
+   "proof": "none.",
+   "side": "left"
+  },
+  {
+   "nn": "03",
+   "layout": "top_straight",
+   "h1": "YOUR IDEAS, IN",
+   "h2": "YOUR AI",
+   "accent": "YOUR AI",
+   "sub": "Let Claude, ChatGPT and other AI apps work with everything you saved. Pro.",
+   "pose": "holding a short stack of three small tiles and handing them toward two small floating chat-app badges beside the phone.",
+   "screen_notes": "The screen shows the Ideafex Account screen: theme, language, plan, and the AI ACCESS section with 'MCP server address mcp.ideafex.si/mcp' and a Copy button. Keep it exact.",
+   "proof": "two small rounded-square app badges floating beside the phone's right edge at the height of the AI ACCESS section: the Claude app logo (orange starburst on cream) and the ChatGPT app logo (white knot on black); no text labels.",
+   "side": "right"
+  },
+  {
+   "nn": "04",
+   "layout": "bottom",
+   "h1": "THE IDEA, NOT",
+   "h2": "JUST A LINK",
+   "accent": "LINK",
+   "sub": "Title, author and preview fill in on their own.",
+   "pose": "reading a tiny open tile like a book, eyes curious.",
+   "screen_notes": "The screen shows an Ideafex idea detail: James Clear, jamesclear.com, the article title 'How to Build New Habits by Taking Advantage of Old Ones', a habit stacking diagram and the article text.",
+   "proof": "none.",
+   "side": "right"
+  },
+  {
+   "nn": "05",
+   "layout": "top_straight",
+   "h1": "FIND IT IN",
+   "h2": "SECONDS",
+   "accent": "SECONDS",
+   "sub": "Search every note, title and caption.",
+   "pose": "holding a small round magnifying glass up to its eye.",
+   "screen_notes": "The screen shows Ideafex search for 'idea' with '7 RESULTS IN ALL IDEAS' and highlighted matches in cards.",
+   "proof": "none.",
+   "side": "left"
+  },
+  {
+   "nn": "06",
+   "layout": "bottom",
+   "h1": "FOLDERS,",
+   "h2": "ZERO EFFORT",
+   "accent": "ZERO",
+   "sub": "Sub-folders and drag to reorder. One idea, many folders.",
+   "pose": "carrying a small accent-blue tile under one arm toward a short neat stack of tiles, looking pleased.",
+   "screen_notes": "The screen shows the Ideafex folder drawer open over the wall: LIBRARY, ALL IDEAS, FOLDERS: Startup ideas, Learn, Japan trip, New folder, and a Gestures hint card.",
+   "proof": "none.",
+   "side": "left"
+  },
+  {
+   "nn": "07",
+   "layout": "top_straight",
+   "h1": "WORKS WITH",
+   "h2": "NO SIGNAL",
+   "accent": "NO SIGNAL",
+   "sub": "Capture, edit and search offline. It syncs later.",
+   "pose": "sitting relaxed on top of the phone's right edge, legs-free body leaning back, holding a small accent-blue tile, calm smile.",
+   "screen_notes": "The screen shows the Ideafex wall in dark mode with a new note 'Idea on the train: a podcast about forgotten inventions, one per episode' at the top; the status bar shows Wi-Fi and cellular off. Keep the status bar exactly as in Image 1.",
+   "proof": "none.",
+   "side": "right"
+  },
+  {
+   "nn": "08",
+   "layout": "bottom",
+   "h1": "MADE FOR",
+   "h2": "BUSY MINDS",
+   "accent": "BUSY",
+   "sub": "Creators, writers, students and ADHDers.",
+   "pose": "juggling three small tiles (one accent blue, two off-white) above its head, happy.",
+   "screen_notes": "The screen shows the Ideafex wall in dark mode, a masonry grid of idea cards.",
+   "proof": "none.",
+   "side": "right"
+  },
+  {
+   "nn": "09",
+   "layout": "top_straight",
+   "h1": "YOUR IDEA",
+   "h2": "INBOX",
+   "accent": "INBOX",
+   "sub": "Free to start. Light or dark.",
+   "pose": "waving goodbye with one arm, the other holding a small accent-blue tile.",
+   "screen_notes": "The screen shows the Ideafex wall in LIGHT mode (white background) with a masonry grid of idea cards; keep it light exactly as Image 1.",
+   "proof": "none.",
+   "side": "left"
+  }
+ ],
+ "layouts": {
+  "top_straight": "Layout: text-top, device-bottom: headline block in the top 28% of the canvas (top 6% free of text, first line starts at 7% of the canvas height), left-aligned at a 7% margin; a 1px hairline across the text column below the subheadline; the phone straight and centered below it, its bottom edge running off the bottom of the canvas so the phone appears large; the character about 15% of canvas height peeks from behind the phone's {side} edge, never covering UI text.",
+  "bottom": "Layout: device-top: the phone straight and centered occupies the top 64% of the canvas with its top edge running off the top of the canvas (status bar and Dynamic Island not visible), cropped so the first visible UI element sits within the top 4% of the canvas; the character about 15% of canvas height peeks from behind the phone's {side} edge just above the text block; the headline block and subheadline sit in the bottom 30% of the canvas, left-aligned at the 7% margin, with a 1px hairline above the headline, bottom 6% free of text."
+ }
+}
